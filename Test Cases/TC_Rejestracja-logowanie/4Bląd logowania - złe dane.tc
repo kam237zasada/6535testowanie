@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4Bląd logowania - złe dane</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd3941f9-24b1-4feb-a5e5-886669bb7bf8</testCaseGuid>
+   <variable>
+      <defaultValue>'xxx'</defaultValue>
+      <description></description>
+      <id>36087b7f-b244-4eb2-9d57-2693b34f666d</id>
+      <masked>false</masked>
+      <name>wrong_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'user1'</defaultValue>
+      <description></description>
+      <id>ac0a1cf9-17fd-44f6-b96b-3c9c5eda2be7</id>
+      <masked>false</masked>
+      <name>wrong_email</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://automationpractice.com/index.php'</defaultValue>
+      <description></description>
+      <id>cb5178aa-76fb-4d4b-a44a-56ad9abdba9a</id>
+      <masked>false</masked>
+      <name>site_url</name>
+   </variable>
+</TestCaseEntity>

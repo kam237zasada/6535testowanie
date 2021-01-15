@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5Poprawne logowanie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e02048a6-e2d6-464b-8f1e-6153bf51118a</testCaseGuid>
+   <variable>
+      <defaultValue>'http://automationpractice.com/index.php'</defaultValue>
+      <description></description>
+      <id>555c8332-3859-4cd7-9990-933f7d524459</id>
+      <masked>false</masked>
+      <name>site_url</name>
+   </variable>
+   <variable>
+      <defaultValue>'agfdghfkjg@wp.pl'</defaultValue>
+      <description></description>
+      <id>aa9c2506-9ce5-431d-88f2-1b149497b9e0</id>
+      <masked>false</masked>
+      <name>correct_email</name>
+   </variable>
+   <variable>
+      <defaultValue>'8SQVv/p9jVScEs4/2CZsLw=='</defaultValue>
+      <description></description>
+      <id>300292aa-5168-4b41-a681-afe85580c007</id>
+      <masked>false</masked>
+      <name>correct_password</name>
+   </variable>
+</TestCaseEntity>

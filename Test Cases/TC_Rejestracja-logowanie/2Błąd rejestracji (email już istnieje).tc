@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2Błąd rejestracji (email już istnieje)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f679a92-7f04-4b73-8d5a-bbe1511ee6cc</testCaseGuid>
+   <variable>
+      <defaultValue>'abc@abc.com'</defaultValue>
+      <description></description>
+      <id>c9818aa8-e8ed-4fb9-beef-f27f6eeb33bd</id>
+      <masked>false</masked>
+      <name>input_email</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://automationpractice.com/index.php'</defaultValue>
+      <description></description>
+      <id>34683b91-bda9-420a-bfab-63a391310728</id>
+      <masked>false</masked>
+      <name>site_url</name>
+   </variable>
+</TestCaseEntity>

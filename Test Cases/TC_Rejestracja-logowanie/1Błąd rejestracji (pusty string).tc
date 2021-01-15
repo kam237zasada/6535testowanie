@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1Błąd rejestracji (pusty string)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f52be08d-4fc1-4504-b9fb-11b0c8c343fd</testCaseGuid>
+   <variable>
+      <defaultValue>'http://automationpractice.com/index.php'</defaultValue>
+      <description></description>
+      <id>295c937b-83e1-4b46-bc78-4ce949f2c6c5</id>
+      <masked>false</masked>
+      <name>site_url</name>
+   </variable>
+</TestCaseEntity>
